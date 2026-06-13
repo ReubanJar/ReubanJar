@@ -18,7 +18,7 @@
 
 ---
 
-## Resume At A Glance
+## Reuban At A Glance
 
 > status: open to cybersecurity, AI security, and full-stack engineering roles  
 > focus: practical security engineering, automation, and AI-integrated products  
@@ -111,4 +111,5 @@ I am a Computer Science (Cybersecurity) graduate who combines offensive security
 If you are hiring for security engineering or AI-integrated software roles, I am ready to contribute from day one.
 
 <!-- profile-refresh: 2026-06-14 -->
+
 
