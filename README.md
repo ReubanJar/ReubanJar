@@ -1,67 +1,81 @@
 <div align="center">
 
-# Reuban Raj Gunasegaran
+# Hi, I'm Reuban Raj Gunasegaran
+
 ### Cybersecurity Engineer | AI Builder | Full-Stack Developer
 
-<a href="mailto:markreuban25@gmail.com"><img src="https://img.shields.io/badge/Email-markreuban25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/reuban-raj-230168a9/"><img src="https://img.shields.io/badge/LinkedIn-Reuban%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.xploitdevmatrix.com"><img src="https://img.shields.io/badge/Website-XploitDevMatrix-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+<a href="https://readme-typing-svg.herokuapp.com/demo/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=900&lines=Security-first+engineer+who+ships+real+products;Founder+%40+XploitDevMatrix;Building+AI+%2B+Cybersecurity+systems+for+impact" alt="Typing Intro" />
+</a>
+
+<p>
+  <a href="https://github.com/ReubanJar/reuban"><img src="https://img.shields.io/badge/GitHub-ReubanJar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/reuban-raj-230168a9/"><img src="https://img.shields.io/badge/LinkedIn-Reuban%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:markreuban25@gmail.com"><img src="https://img.shields.io/badge/Email-markreuban25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
 ---
 
-## Resume Overview
+## Resume At A Glance
 
-Security-focused software engineer with hands-on experience in penetration testing, secure application development, and AI-powered systems. I build practical, production-ready solutions that reduce risk and improve operational outcomes.
+> status: open to cybersecurity, AI security, and full-stack engineering roles  
+> focus: practical security engineering, automation, and AI-integrated products  
+> goal: build secure systems that create measurable business value
 
 **Resume (PDF):** [Download ReubanRajGunasegaran_Resume.pdf](./ReubanRajGunasegaran_Resume.pdf)
 
-**Open to:** Cybersecurity Engineer, Security Analyst, AI Security Engineer, Full-Stack Developer roles.
+I am a Computer Science (Cybersecurity) graduate who combines offensive security thinking with production-grade engineering execution.
+
+## Highlights
+
+- Founder of `XploitDevMatrix`, delivering AI and software solutions for real business workflows
+- Built AI-powered pentesting and recruitment systems using `Python`, `Flask`, and `LLM` pipelines
+- Hands-on cybersecurity experience in analysis, reporting, and secure operations support
+- Strong build-to-ship mindset: design, implement, harden, and deliver
 
 ## Experience
 
 ### Founder - XploitDevMatrix *(Aug 2025 - Present)*
-- Founded an AI and software solutions company delivering tailored systems for business operations.
-- Designed and shipped automation-first, secure software solutions for real-world client workflows.
+- Founded and scaled a solutions company focused on AI automation and secure software development.
+- Architected products that improved operational reliability and process efficiency.
 
 ### Cybersecurity Intern - Venovox *(Sep 2024 - Dec 2024)*
-- Conducted technical data analysis and prepared high-quality reports for cybersecurity operations.
-- Supported IT and software development processes with a security-first mindset.
+- Conducted security-centered data analysis and prepared technical reports for stakeholders.
+- Supported IT and software operations with a security-first execution approach.
 
 ## Featured Projects
 
 ### PenetraXploreAI - Automated Pentesting Assistant (FYP)
-**Stack:** `Python` `Flask` `LLM` `Nmap` `Dirsearch` `Selenium` `SQLite`
+`Python` `Flask` `LLM` `Nmap` `Dirsearch` `Selenium` `SQLite`
 
-Developed an interactive local AI pentesting assistant that coordinates scanning workflows and generates technical/compliance-ready reports.
+AI assistant that orchestrates penetration testing tasks, consolidates findings, and produces technical/compliance-ready reports.
 
 ### Secure File Vault System
-**Stack:** `Python` `Flask` `JavaScript` `SQL Server` `AES` `OAuth`
+`Python` `Flask` `JavaScript` `SQL Server` `AES` `OAuth`
 
-Built a secure file management platform with AES encryption/decryption, real-time activity logs, and role-based permissions.
+Secure file platform with encryption/decryption, real-time logs, and role-based access controls.
 
 ### URL Malware Detection System
-**Stack:** `Python` `Django` `TypeScript` `Machine Learning`
+`Python` `Django` `TypeScript` `Machine Learning`
 
-Implemented a real-time URL threat detection pipeline to identify phishing and malware behavior patterns.
-
-### Immutable Blockchain Inventory
-**Stack:** `Python` `Django` `HTML` `CSS` `Blockchain`
-
-Created an inventory tracking system with immutable transaction records for integrity and anti-fraud traceability.
+Real-time URL threat detection pipeline for phishing and malware pattern analysis.
 
 ### CVScreenify - AI Resume Screener
-**Stack:** `Python` `Flask` `NLP` `LLM`
+`Python` `Flask` `NLP` `LLM`
 
-Built an AI recruitment assistant for resume analysis, scoring, ranking, and hiring recommendation support.
+Automated candidate scoring and ranking system to support smarter, faster hiring decisions.
 
-## Technical Skills
+## Skill Stack
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++, SQL
-- **Frameworks:** Flask, Django
-- **Cybersecurity:** Kali Linux, Wireshark, Nmap, Burp Suite, SQLMap
-- **Cloud/Tools:** AWS, Linux, Git
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,flask,django,mysql,linux,aws,git" alt="Core Skills" />
+</div>
+
+<br/>
+
+`Kali Linux` `Wireshark` `Nmap` `Burp Suite` `SQLMap` `VulnHub`
 
 ## Certifications
 
@@ -72,14 +86,14 @@ Built an AI recruitment assistant for resume analysis, scoring, ranking, and hir
 
 ## Education
 
-**B.S. Computer Science (Cybersecurity)**  
-Asia Pacific University *(Nov 2022 - Nov 2025)*
+**B.S. Computer Science (Cybersecurity)** - Asia Pacific University *(Nov 2022 - Nov 2025)*
 
 ## Contact
 
 - Email: `markreuban25@gmail.com`
 - LinkedIn: [linkedin.com/in/reuban-raj-230168a9](https://www.linkedin.com/in/reuban-raj-230168a9/)
+- Website: [xploitdevmatrix.com](https://www.xploitdevmatrix.com)
 
 ---
 
-If you're hiring for cybersecurity or secure AI/software engineering roles, I'm open to opportunities.
+If you are hiring for security engineering or AI-integrated software roles, I am ready to contribute from day one.
