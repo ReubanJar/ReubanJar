@@ -24,7 +24,7 @@
 > focus: practical security engineering, automation, and AI-integrated products  
 > goal: build secure systems that create measurable business value
 
-**Resume (PDF):** [Download ReubanRajGunasegaran_Resume.pdf](./ReubanRajGunasegaran_Resume.pdf)
+**Resume (PDF):** [Download ReubanRaj_Resume.pdf](./ReubanRaj_Resume.pdf)
 
 I am a Computer Science (Cybersecurity) graduate who combines offensive security thinking with production-grade engineering execution.
 
@@ -111,3 +111,4 @@ I am a Computer Science (Cybersecurity) graduate who combines offensive security
 If you are hiring for security engineering or AI-integrated software roles, I am ready to contribute from day one.
 
 <!-- profile-refresh: 2026-06-14 -->
+
