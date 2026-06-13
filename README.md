@@ -5,7 +5,7 @@
 ### Cybersecurity Engineer | AI Builder | Full-Stack Developer
 
 <a href="https://readme-typing-svg.herokuapp.com/demo/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=900&lines=Security-first+engineer+who+ships+real+products;Founder+%40+XploitDevMatrix;Building+AI+%2B+Cybersecurity+systems+for+impact" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+engineer+building+practical+AI-powered+solutions;Founder+%40+XploitDevMatrix;Building+AI+%2B+Cybersecurity+systems+for+impact" alt="Typing Intro" />
 </a>
 
 <p>
