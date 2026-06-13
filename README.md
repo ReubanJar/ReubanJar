@@ -97,3 +97,5 @@ Automated candidate scoring and ranking system to support smarter, faster hiring
 ---
 
 If you are hiring for security engineering or AI-integrated software roles, I am ready to contribute from day one.
+
+<!-- profile-refresh: 2026-06-14 -->
