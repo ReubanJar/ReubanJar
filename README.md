@@ -35,16 +35,6 @@ I am a Computer Science (Cybersecurity) graduate who combines offensive security
 - Hands-on cybersecurity experience in analysis, reporting, and secure operations support
 - Strong build-to-ship mindset: design, implement, harden, and deliver
 
-## Experience
-
-### Founder - XploitDevMatrix *(Aug 2025 - Present)*
-- Founded and scaled a solutions company focused on AI automation and secure software development.
-- Architected products that improved operational reliability and process efficiency.
-
-### Cybersecurity Intern - Venovox *(Sep 2024 - Dec 2024)*
-- Conducted security-centered data analysis and prepared technical reports for stakeholders.
-- Supported IT and software operations with a security-first execution approach.
-
 ## Featured Projects
 
 ### [PenetraXploreAI](https://github.com/ReubanJar/penetraxploreai)
