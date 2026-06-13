@@ -47,25 +47,35 @@ I am a Computer Science (Cybersecurity) graduate who combines offensive security
 
 ## Featured Projects
 
-### PenetraXploreAI - Automated Pentesting Assistant (FYP)
-`Python` `Flask` `LLM` `Nmap` `Dirsearch` `Selenium` `SQLite`
+### [PenetraXploreAI](https://github.com/ReubanJar/penetraxploreai)
+`Python` `Flask` `LLM` `Nmap` `Dirsearch` `Selenium`
 
-AI assistant that orchestrates penetration testing tasks, consolidates findings, and produces technical/compliance-ready reports.
+Automated pentesting assistant that performs web security testing, consolidates findings, and supports remediation reporting.
 
-### Secure File Vault System
-`Python` `Flask` `JavaScript` `SQL Server` `AES` `OAuth`
-
-Secure file platform with encryption/decryption, real-time logs, and role-based access controls.
-
-### URL Malware Detection System
-`Python` `Django` `TypeScript` `Machine Learning`
-
-Real-time URL threat detection pipeline for phishing and malware pattern analysis.
-
-### CVScreenify - AI Resume Screener
+### [CVScreenify](https://github.com/ReubanJar/cvscreenify)
 `Python` `Flask` `NLP` `LLM`
 
-Automated candidate scoring and ranking system to support smarter, faster hiring decisions.
+AI-powered resume screening platform for candidate analysis, scoring, and hiring decision support.
+
+### [AI Detection System](https://github.com/ReubanJar/aidetectionsystem)
+`Python` `Flask` `PyTorch` `Transformers` `OpenCV`
+
+Media authenticity analysis tool for detecting AI-generated images/videos using model and signal-based checks.
+
+### [Facial Health Scanner](https://github.com/ReubanJar/facial-health-scanner)
+`Dart`
+
+Mobile-focused health utility project for scanning and assessing facial indicators.
+
+### [Makeup Transfer App](https://github.com/ReubanJar/makeup-transfer-app)
+`C++`
+
+Computer-vision style project exploring makeup transfer workflows and image transformation logic.
+
+### [ReubanJar (Profile Repository)](https://github.com/ReubanJar/ReubanJar)
+`Markdown`
+
+Profile repository powering this GitHub Overview resume page.
 
 ## Skill Stack
 
