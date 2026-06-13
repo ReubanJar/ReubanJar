@@ -50,32 +50,47 @@ I am a Computer Science (Cybersecurity) graduate who combines offensive security
 ### [PenetraXploreAI](https://github.com/ReubanJar/penetraxploreai)
 `Python` `Flask` `LLM` `Nmap` `Dirsearch` `Selenium`
 
-Automated pentesting assistant that performs web security testing, consolidates findings, and supports remediation reporting.
+- Built an AI-assisted penetration testing platform for web vulnerability assessment workflows.
+- Combines automated scanning modules with centralized findings and severity-focused reporting.
+- Supports practical security testing for XSS, SQLi, and reconnaissance-style checks.
+- Designed to speed up analyst triage and remediation planning for security teams.
 
 ### [CVScreenify](https://github.com/ReubanJar/cvscreenify)
 `Python` `Flask` `NLP` `LLM`
 
-AI-powered resume screening platform for candidate analysis, scoring, and hiring decision support.
+- Developed an AI-powered recruitment assistant for resume parsing and candidate evaluation.
+- Automates scoring, ranking, and recommendation generation based on job descriptions.
+- Improves screening consistency and reduces manual shortlisting time.
+- Includes a web workflow focused on practical HR usability.
 
 ### [AI Detection System](https://github.com/ReubanJar/aidetectionsystem)
 `Python` `Flask` `PyTorch` `Transformers` `OpenCV`
 
-Media authenticity analysis tool for detecting AI-generated images/videos using model and signal-based checks.
+- Created a media authenticity checker for AI-generated image and video detection.
+- Uses model inference plus signal-based heuristics (ELA, metadata, artifact checks).
+- Provides confidence-oriented outputs for faster analyst review.
+- Built as a lightweight Flask app for rapid demo and extension.
 
 ### [Facial Health Scanner](https://github.com/ReubanJar/facial-health-scanner)
 `Dart`
 
-Mobile-focused health utility project for scanning and assessing facial indicators.
+- Built a mobile-first health utility app in Dart for quick facial indicator assessment.
+- Focused on simple UX flow for scan capture, analysis, and readable feedback.
+- Structured for iterative feature expansion and model integration.
 
 ### [Makeup Transfer App](https://github.com/ReubanJar/makeup-transfer-app)
 `C++`
 
-Computer-vision style project exploring makeup transfer workflows and image transformation logic.
+- Implemented a C++ image-processing project exploring makeup transfer transformations.
+- Experiments with visual feature mapping and appearance transfer logic.
+- Demonstrates low-level programming, performance awareness, and CV fundamentals.
 
 ### [ReubanJar (Profile Repository)](https://github.com/ReubanJar/ReubanJar)
 `Markdown`
 
-Profile repository powering this GitHub Overview resume page.
+- Powers the GitHub profile Overview README shown to visitors and recruiters.
+- Centralizes professional summary, project highlights, and contact links.
+- Continuously refined for better clarity, positioning, and hiring impact.
 
 ## Skill Stack
 
