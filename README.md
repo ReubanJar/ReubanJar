@@ -85,13 +85,6 @@ I am a Computer Science (Cybersecurity) graduate who combines offensive security
 - Experiments with visual feature mapping and appearance transfer logic.
 - Demonstrates low-level programming, performance awareness, and CV fundamentals.
 
-### [ReubanJar (Profile Repository)](https://github.com/ReubanJar/ReubanJar)
-`Markdown`
-
-- Powers the GitHub profile Overview README shown to visitors and recruiters.
-- Centralizes professional summary, project highlights, and contact links.
-- Continuously refined for better clarity, positioning, and hiring impact.
-
 ## Skill Stack
 
 <div align="center">
@@ -111,7 +104,11 @@ I am a Computer Science (Cybersecurity) graduate who combines offensive security
 
 ## Education
 
-**B.S. Computer Science (Cybersecurity)** - Asia Pacific University *(Nov 2022 - Nov 2025)*
+- **Asia Pacific University** *(Oct. 2022 - Feb. 2026)*  
+  Bachelor of Computer Science (Cyber Security), CGPA 3.46
+
+- **Asia Pacific University** *(Jul. 2021 - May. 2022)*  
+  Foundation (Computing & Technology), CGPA 3.71
 
 ## Contact
 
